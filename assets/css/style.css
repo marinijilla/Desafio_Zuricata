@@ -1,0 +1,9 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.navbar {
+    background-color: #e83e8c ;
+}
+.nav.navbar-nav.navbar-light a {
+    color: white;
+}

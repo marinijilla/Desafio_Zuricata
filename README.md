@@ -1,2 +1,2 @@
-# Desafio_Zuricata
-Integrantes: Ricardo Méndez - Marina Parra
+# desafio_zuricata
+integrantes: ricardo mendez - marina parra

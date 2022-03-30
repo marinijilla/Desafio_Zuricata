@@ -1,2 +1,2 @@
 # desafio_suricata
-integrantes: ricardo mendez - marina parra
+integrantes: Marina Parra - Ricardo Méndez

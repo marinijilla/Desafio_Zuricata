@@ -10,6 +10,31 @@ h1 {
  font-size: 3.75rem;
  color: #707070;
 }
+h5 {
+    font-weight: 700;
+    font-size: 1rem;
+    color: #373a3c;
+}
+p {
+    font-weight: 500;
+}
+a {
+    text-decoration: none;
+    color: #17a2b8;
+}
+.list-group-item {
+    font-size: 0.7rem;
+}
+.payment-section {
+    background-color: #17A2B8;
+    color:white
+}
+.payment-section p {
+    font-weight: 700;
+    font-size: 2rem;
+    margin-bottom: 0;
+    text-align: right;
+}
 
 footer {
     background-color: #e83e8c ;

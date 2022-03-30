@@ -25,6 +25,9 @@ a {
 .list-group-item {
     font-size: 0.7rem;
 }
+.card-body a {
+    font-size: 0.7rem;
+}
 .payment-section {
     background-color: #17A2B8;
     color:white

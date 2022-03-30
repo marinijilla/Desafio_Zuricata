@@ -4,6 +4,9 @@ body {
 .navbar {
     background-color: #e83e8c ;
 }
-.nav.navbar-nav.navbar-light a {
-    color: white;
+
+h1 {
+ font-weight: 700;
+ font-size: 3.75rem;
+ color: #707070;
 }
